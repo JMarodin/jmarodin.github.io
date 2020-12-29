@@ -3,4 +3,4 @@ My personal portfolio. Features my blockchain skills with solidity, truffle and 
 
 I've added the code to GitHub, so that prospective employers, clients and colleagues can have a snoop around my code.
 
-Take a look at the live version here juliomarodin.github.io.
+Take a look at the live version here jmarodin.github.io.
